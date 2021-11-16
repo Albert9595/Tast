@@ -1,0 +1,1 @@
+BASE_CANDIDATES_URL  = "http://localhost:8090/candidates"
